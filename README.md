@@ -38,7 +38,7 @@ I am a passionate Data Professional with **Two year of experience** in Data Anal
 
 ## 🌱 What I'm Learning
 - Advanced topics in **Full-Stack Development**
-- Deepening expertise in **Cloud Data Engineering** with Snowflake, PySpark, and Hadoop
+- Deepening expertise in **Cloud Data Engineering** with Snowflake, PySpark, and GCP
 
 ---
 
