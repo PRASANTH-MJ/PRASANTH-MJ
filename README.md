@@ -5,7 +5,7 @@
 ---
 
 ## 🌟 About Me
-I am a passionate Data Professional with **one year of experience** in Data Analytics, Data Science, Data Engineering, and Zoho SaaS Development. I specialize in creating data-driven solutions, developing scalable applications, and enabling business intelligence for impactful decision-making.
+I am a passionate Data Professional with **Two year of experience** in Data Analytics, Data Science, Data Engineering, and Zoho SaaS Development. I specialize in creating data-driven solutions, developing scalable applications, and enabling business intelligence for impactful decision-making.
 
 ---
 
