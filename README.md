@@ -44,12 +44,6 @@ I am a passionate Data Professional with **Two year of experience** in Data Anal
 
 ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-## 📈 Projects
-1. **Jewelry Savings App with Group Seetu Feature**  
-   Tools: `Flask`, `MySQL`, `AWS`  
-   - Built a user-friendly application with secure authentication and savings tracking functionality.  
-
----
 
 ## 💬 Let's Connect!
 - **LinkedIn**: [Prasanth J](https://www.linkedin.com/in/prasanth-mj282002)
